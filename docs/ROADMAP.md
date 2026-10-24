@@ -1,9 +1,10 @@
 # Roadmap
 
 ## M1 — Map & camera
-- [ ] Unity project, `Ironfront.Sim` assembly, time controller (pause and speeds 1–5)
-- [ ] France 1940 base map (terrain raster, rivers, roads, rails)
-- [ ] Pan/zoom camera, km grid, date/time HUD
+- [x] Unity project, `Ironfront.Sim` assembly, time controller (pause and speeds 1–5)
+- [x] France 1940 base map v0: coast, borders, lakes, major rivers, cities, terrain raster (Natural Earth + hand-entered)
+- [ ] Map v1: real elevation and forest data, minor rivers and canals, roads, rails, bridges
+- [x] Pan/zoom camera, km grid, date/time HUD, terrain/political map modes, day/night
 
 ## M2 — Units & orders
 - [ ] OOB data format and loader

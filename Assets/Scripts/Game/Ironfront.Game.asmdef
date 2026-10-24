@@ -1,0 +1,16 @@
+{
+    "name": "Ironfront.Game",
+    "rootNamespace": "Ironfront.Game",
+    "references": [
+        "Ironfront.Sim"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
